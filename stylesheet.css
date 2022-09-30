@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(242, 96, 96);
+
+}
+.demo {
+  position: relative;
+  font-weight: 900;
+  font-size: 3.3em;
+  text-align: center;
+  margin-top: 20%;
+}
+
+.demo .text-wrapper {
+  position: relative;
+  display: inline-block;
+  padding-top: 0.2em;
+  padding-right: 0.05em;
+  padding-bottom: 0.1em;
+  overflow: hidden;
+}
+
+.demo .letter {
+  display: inline-block;
+  line-height: 1em;
+}
